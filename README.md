@@ -1,6 +1,7 @@
 
 
-![Uploading Screenshot (9).png…]()
+
+![Screenshot (9)](https://github.com/sigma-avi/YouTube_Clone/assets/134030689/4526e813-694a-4820-a8d1-f194f513dd41)
 
 ![Screenshot (10)](https://github.com/sigma-avi/YouTube_Clone/assets/134030689/54879007-6bcc-45be-aad4-b19e58d6afed)
 
