@@ -1,3 +1,32 @@
+
+
+![Uploading Screenshot (9).png…]()
+
+![Screenshot (10)](https://github.com/sigma-avi/YouTube_Clone/assets/134030689/54879007-6bcc-45be-aad4-b19e58d6afed)
+
+![Screenshot (11)](https://github.com/sigma-avi/YouTube_Clone/assets/134030689/a0d2f4d5-eca1-445e-b60e-67efca470d72)
+
+![Screenshot (12)](https://github.com/sigma-avi/YouTube_Clone/assets/134030689/66882bb8-debf-412d-8e1d-930622ec4da4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
